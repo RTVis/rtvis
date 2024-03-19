@@ -1,4 +1,4 @@
-dash==2.8.1
+dash>=2.15.0
 pandas==1.5.3
 networkx==2.8.4
 plotly==5.13.0
